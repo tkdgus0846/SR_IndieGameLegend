@@ -1,2 +1,3 @@
-# SR_DontStarve
-SR 돈스타브 RTS형식 게임 팀포폴
+# SR_IndieGameLegend
+DirectX9 을 이용한 FPS 픽셀 그래픽 장르의 게임 구현
+
